@@ -1,0 +1,1 @@
+This is a directory for task 2 of Day 1
