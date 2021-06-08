@@ -1,1 +1,2 @@
-This is a directory containing all git tasks for Day 1
+This is a directory containing all git tasks for Day-1
+
